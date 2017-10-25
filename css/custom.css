@@ -16,6 +16,12 @@ ul.nav {
   background-color: #f5f5f5;
 }
 
+#educator {
+  font-size: 30px;
+  color: black;
+  text-transform: lowercase;
+}
+
 .jumbotron {
   text-align: center;
   background-image: url('../images/hero-image.jpg');
