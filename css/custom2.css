@@ -9,4 +9,15 @@
      border: 1px solid #ddd;
      border: 1px solid rgba(86,61,124,.2);
 }
- 
+
+.jumbotron-new {
+  padding: 75px;
+  text-align: center;
+  background-image: url('/images/jumbo-new.jpg');
+  background-position: center;
+  color: white;
+}
+
+.history-lesson {
+  color: #e74c3c;
+}
