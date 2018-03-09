@@ -77,16 +77,16 @@ a {
 }
 /* Images that is set for scroll feature */
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url("/img/r35.jpg");
+  background-image: url("../../img/r35.jpg");
 }
 .cd-fixed-bg.cd-bg-2 {
-  background-image: url("/img/r34.jpg");
+  background-image: url("../../img/r34.jpg");
 }
 .cd-fixed-bg.cd-bg-3 {
-  background-image: url("/img/r33.jpg");
+  background-image: url("../../img/r33.jpg");
 }
 .cd-fixed-bg.cd-bg-4 {
-  background-image: url("/img/footer-img.jpg");
+  background-image: url("../../img/footer-img.jpg");
 }
 
 .cd-scrolling-bg {
