@@ -105,5 +105,10 @@ ul.nav {
 
 /* forms */
 #tempform {
-  padding: 10px;
+  padding: 284px 160px;
+}
+
+.required-star {
+  color: red;
+  font-weight: bold;
 }

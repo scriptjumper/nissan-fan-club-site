@@ -23,16 +23,45 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navigationImg navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="../../../../index.html"><img src="../../../../img/top-logo.png" alt="Nismo" title="Nissan GTR"></a>
+          <a class="navbar-brand" href="../../../../index.html"><img src="../../../../img/top-logo.png" alt="Nismo" title="Go Back Home"></a>
         </div>
       </div>
     </nav>
+
+    <div class="cd-scrolling-bg cd-color-2" id="tempform">
+      <div class="alert alert-info" style="margin-top: 10px;">
+        <strong>The form below is a template</strong>
+      </div>
+  
+      <h3>Bookings</h3>
+      <p>Booking a test drive with a car of your choice</p>
+  
+      <form action="../../../../index.html">
+        <div class="form-group">
+          <label for="car">Which car would you like to try out ?</label>
+          <select class="form-control" name="cars" id="cars">
+            <option value="">-- choose a car --</option>
+            <option value="Nissan_Skyline_GTR_R35">Nissan Skyline GTR R35</option>
+            <option value="Nissan_Skyline_GTR_R34">Nissan Skyline GTR R34</option>
+            <option value="Nissan_Skyline_GTR_R33">Nissan Skyline GTR R33</option>
+            <option value="Nissan_Skyline_GTR_R32">Nissan Skyline GTR R32</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="email1">Please enter your email address <i class="required-star">*</i></label>
+          <input type="email" class="form-control" id="email1" placeholder="name@example.com">
+        </div>
+
+        <div class="form-group">
+          <label for="email1">Which day are you booking for ?<i class="required-star">*</i></label>
+          <div class='input-group date' id='datetimepicker1'>
+              <input type='date' class="form-control" />
+          </div>
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
 
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="../../jquery/1.12.4/jquery.min.js"></script>
