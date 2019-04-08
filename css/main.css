@@ -101,3 +101,9 @@ ul.nav {
   width: 200px;
   height: 200px;
 }
+
+
+/* forms */
+#tempform {
+  padding: 10px;
+}
