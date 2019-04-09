@@ -1,19 +1,17 @@
 # Nissan Fan Club
 
-Text Editor
-http://www.sublimetext.com/3
+A simple stylish website blog to help promote start up companies.
+## Responsive Design
+#### Desktop
+<img src="img/readme_img/desktop.png"> 
 
-Google chrome
-http://www.google.com/intl/en/chrome/browser/
+#### Table
+<img src="img/readme_img/tablet.png"> 
 
-Bootstrap
-http://getbootstrap.com/
+#### Mobile
+<img src="img/readme_img/mobile.png"> 
 
-Recommended to put all CSS code in an external style sheet
+### Get Started
+- Clone down the repositiory
+- Change all the places to insert information about your company
 
-Font style
-www.google.com/fonts/specimen/Arvo
-
-Difference between png and jpg
-png: Has transparent backgrounds
-jpg: Are squares

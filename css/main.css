@@ -101,3 +101,14 @@ ul.nav {
   width: 200px;
   height: 200px;
 }
+
+
+/* forms */
+#tempform {
+  padding: 284px 160px;
+}
+
+.required-star {
+  color: red;
+  font-weight: bold;
+}
